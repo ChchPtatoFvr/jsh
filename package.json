@@ -1,0 +1,17 @@
+{
+  "name": "jsh",
+  "version": "1.0.0",
+  "description": "",
+  "os" : [ "darwin", "linux" ],
+  "engines": {
+    "node": ">=10.15.1"
+  },
+  "cpu": [ "x64" ],
+  "main": "main.js",
+  "dependencies": {
+    "colors": "^1.3.3"
+  },
+  "devDependencies": {},
+  "author": "Devin Scholl",
+  "license": "MIT"
+}

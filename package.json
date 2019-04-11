@@ -15,10 +15,10 @@
   },
   "cpu": [ "x64" ],
   "main": "main.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "colors": "^1.3.3"
   },
-  "devDependencies": {},
   "author": "Devin Scholl",
   "license": "MIT"
 }

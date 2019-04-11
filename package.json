@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "os" : [ "darwin", "linux" ],
   "description": "A node bash scripting library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChchPtatoFvr/jsh"
+  },
+  "bugs": {
+    "url": "https://github.com/ChchPtatoFvr/jsh/issues"
+  },
   "engines": {
     "node": ">=10.15.1"
   },

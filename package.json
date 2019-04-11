@@ -1,7 +1,6 @@
 {
   "name": "jsh",
   "version": "1.0.0",
-  "os" : [ "darwin", "linux" ],
   "description": "A node bash scripting library",
   "repository": {
     "type": "git",
@@ -10,10 +9,16 @@
   "bugs": {
     "url": "https://github.com/ChchPtatoFvr/jsh/issues"
   },
+  "os": [
+    "darwin",
+    "linux"
+  ],
   "engines": {
     "node": ">=10.15.1"
   },
-  "cpu": [ "x64" ],
+  "cpu": [
+    "x64"
+  ],
   "main": "main.js",
   "dependencies": {},
   "devDependencies": {

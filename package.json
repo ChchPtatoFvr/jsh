@@ -1,8 +1,8 @@
 {
   "name": "jsh",
   "version": "1.0.0",
-  "description": "",
   "os" : [ "darwin", "linux" ],
+  "description": "A node bash scripting library",
   "engines": {
     "node": ">=10.15.1"
   },
